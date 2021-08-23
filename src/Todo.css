@@ -1,0 +1,14 @@
+.Container{
+    display:flex;
+}
+.list-item{
+    left:30%;
+    position: relative;
+    max-width: 30%;
+    word-wrap: break-word;
+
+}
+.btn{
+    right:30%;
+    position: absolute;
+}
